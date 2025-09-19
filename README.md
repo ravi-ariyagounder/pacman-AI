@@ -1,9 +1,24 @@
-# Pac3man: Python3 port of Berkeley Pacman
-
-Porting the Berkeley Pacman assignments over to Python 3.
-
-Just the assignment code, but none of the solutions.
-
-My solution code is on a different branch, but that branch is committed to a private Github repo so that students cannot see it. That is not really pertinent information but I wanted to share it because I was really excited to figure it out.
-
-This repo also contains two other assignments, a Markov Babbler and a Naive Bayesian Spam Classifier.
+# PacMan AI Project
+ 
+## Overview of Oacman project
+This project is based on the **UC Berkeley CS188: Introduction to Artificial Intelligence** Pac-Man projects.  
+The goal is to implement various **search algorithms** to control Pac-Man in different maze environments.  
+ 
+## Features
+- **Depth-First Search (DFS)**
+- **Breadth-First Search (BFS)**
+- **Uniform Cost Search (UCS)**
+- ** A* Search (UCS)**
+  
+- Works with different **maze layouts**:
+  - `tinyMaze`
+  - `mediumMaze`
+  - `bigMaze`
+- Designed for learning AI concepts like **search, heuristics, and problem-solving**.
+ 
+## Getting Started
+ 
+### Installation
+1. Clone the repository from "https://github.com/jspacco/pac3man"
+2. My repository is 
+   git clone https://github.com/your-username/pacman.git
