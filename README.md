@@ -18,7 +18,7 @@ The goal is to implement various **search algorithms** to control PacMan in diff
  
 ### Installation steps followed:
 1. Clone the repository from "https://github.com/jspacco/pac3man". Used fork to make a copy the project to my GIT REPO
-2. After creating the repo, Git was cloned cloned from https://github.com/ravi-ariyagounder/pacman.AI to my local drive
+2. After creating the REPO, Git was cloned from https://github.com/ravi-ariyagounder/pacman.AI to my local drive
 
 ### Deliverables
 Run the AutoGrader and submit the results 
