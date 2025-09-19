@@ -2,9 +2,9 @@
  
 ## Overview of Pacman project:
 This project is based on the **UC Berkeley CS188: Introduction to Artificial Intelligence** Pac-Man projects.  
-The goal is to implement various **search algorithms** to control Pac-Man in different maze environments.  
+The goal is to implement various **search algorithms** to control PacMan in different maze environments.  
  
-## Features:
+## Search Algorithms:
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
 - Uniform Cost Search (UCS)
