@@ -18,7 +18,6 @@ The goal is to implement various **search algorithms** to control Pac-Man in dif
  
 ## Getting Started
  
-### Installation
-1. Clone the repository from "https://github.com/jspacco/pac3man"
-2. My repository is 
-   git clone https://github.com/your-username/pacman.git
+### Installation steps followed:
+1. Clone the repository from "https://github.com/jspacco/pac3man". Used fork to make a copy the project to my GIT REPO
+2. After creating the repo, Git was cloned cloned from https://github.com/ravi-ariyagounder/pacman.AI to my local drive
