@@ -14,7 +14,7 @@ The goal is to implement various **search algorithms** to control Pac-Man in dif
   - `tinyMaze`
   - `mediumMaze`
   - `bigMaze`
-- Designed for learning AI concepts like **search, heuristics, and problem-solving**.
+- Designed for learning AI concepts like search alogorithms, Running AutoGrader, and problem-solving.
  
 ### Installation steps followed:
 1. Clone the repository from "https://github.com/jspacco/pac3man". Used fork to make a copy the project to my GIT REPO
