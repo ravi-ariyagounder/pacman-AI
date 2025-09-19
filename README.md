@@ -5,10 +5,10 @@ This project is based on the **UC Berkeley CS188: Introduction to Artificial Int
 The goal is to implement various **search algorithms** to control Pac-Man in different maze environments.  
  
 ## Features:
-- **Depth-First Search (DFS)**
-- **Breadth-First Search (BFS)**
-- **Uniform Cost Search (UCS)**
-- ** A* Search (UCS)**
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Uniform Cost Search (UCS)
+- A* Search (UCS)
   
 - Works with different **maze layouts**:
   - `tinyMaze`
